@@ -5,8 +5,8 @@ precios y volúmenes de frutas y hortalizas en mercados mayoristas de Chile.
 Incluye análisis exploratorio, preparación de datos, modelos supervisados
 (regresión y clasificación) y modelos no supervisados (clustering).
 
-> Proyecto académico de la asignatura Minería de Datos 2, [carrera], DuocUC.
-> [Si fue trabajo grupal, agrega: "Trabajo realizado junto a X e Y. Mi participación: ..."]
+> Proyecto académico de la asignatura Minería de Datos 2, Ingeniería en Infomática, DuocUC.
+
 
 ## Objetivos
 
@@ -22,7 +22,6 @@ Incluye análisis exploratorio, preparación de datos, modelos supervisados
 - ~49.000 registros entre 2021 y 2022.
 - Variables principales: Producto, Variedad, Mercado, Unidad, Fecha, Precio, Volumen, Latitud y Longitud.
 - Variables creadas en este proyecto: `Precio_tratado`, `Precio_Unidad` [ajusta si creaste otras].
-- **Licencia del dataset:** [copiar desde la página de Kaggle].
 - Para ejecutar el notebook, descarga el archivo desde Kaggle y súbelo cuando la primera celda lo pida.
 
 ## Metodología (CRISP-DM)
@@ -102,13 +101,13 @@ Python · pandas · NumPy · scikit-learn · XGBoost · matplotlib · seaborn ·
 ## Estructura del repositorio
 
 ```
-├── mineria_datos_2.ipynb   # Notebook con todo el análisis
+├── mineria_datos_2.ipynb 
 ├── README.md
-└── [datos/archivo.xlsx]    # Solo si la licencia permite redistribuirlo
+└── [datos/archivo.xlsx]   
 ```
 ## Autores
 
-| Nombre | Contacto | Participación |
+| Nombre | Contacto | 
 |---|---|---|
-| **Paulina [apellido]** | [LinkedIn] · [GitHub] | [qué hiciste tú] |
-| **Diego Román** | [LinkedIn o GitHub de Diego] | [qué hizo Diego] |
+| **Paulina Solís** | pauli.solis00@gmail.com |
+| **Diego Román** | diego.alonsoromanp@gmail.com | 
