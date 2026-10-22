@@ -108,6 +108,6 @@ Python · pandas · NumPy · scikit-learn · XGBoost · matplotlib · seaborn ·
 ## Autores
 
 | Nombre | Contacto | 
-|---|---|---|
+|---|---|
 | **Paulina Solís** | pauli.solis00@gmail.com |
 | **Diego Román** | diego.alonsoromanp@gmail.com | 
